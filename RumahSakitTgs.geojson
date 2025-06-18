@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RumahSakitTgs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "RS Mitra Husada", "FCODE": null, "LCODE": "GI0020", "REMARK": "Rumah Sakit Umum", "METADATA": null, "SRS_ID": null, "TIPRST": 0, "JPLYRS": 1, "ALAMAT": null }, "geometry": { "type": "Point", "coordinates": [ 104.990703289000066, -5.358757190999938, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "RS Wisma Rini", "FCODE": null, "LCODE": "GI0020", "REMARK": "Rumah Sakit Umum", "METADATA": null, "SRS_ID": null, "TIPRST": 0, "JPLYRS": 1, "ALAMAT": null }, "geometry": { "type": "Point", "coordinates": [ 104.97185730800004, -5.355101819999959, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "RSIA Harapan Bunda", "FCODE": null, "LCODE": "GI0020", "REMARK": "Rumah Sakit Khusus", "METADATA": null, "SRS_ID": null, "TIPRST": 0, "JPLYRS": 2, "ALAMAT": null }, "geometry": { "type": "Point", "coordinates": [ 104.973951043000056, -5.361452569999926, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "RSUD Pringsewu", "FCODE": null, "LCODE": "GI0020", "REMARK": "Rumah Sakit Umum", "METADATA": null, "SRS_ID": null, "TIPRST": 0, "JPLYRS": 1, "ALAMAT": null }, "geometry": { "type": "Point", "coordinates": [ 104.976821396000048, -5.35896489299995, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "RSIA Mutiarahati Tambahrejo Barat", "FCODE": null, "LCODE": "GI0020", "REMARK": "Rumah Sakit Khusus", "METADATA": null, "SRS_ID": null, "TIPRST": 0, "JPLYRS": 2, "ALAMAT": null }, "geometry": { "type": "Point", "coordinates": [ 105.021013180000068, -5.38234117099995, 0.0 ] } }
+]
+}

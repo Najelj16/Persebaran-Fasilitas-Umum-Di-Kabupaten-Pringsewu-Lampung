@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AreaOlahragaTgs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Lapangan Kutawaringin", "FCODE": null, "ELEVAS": 0.0, "REMARK": "Arena Atletik dan Olah Raga", "SRS_ID": null, "LCODE": "GG0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.006262825000078, -5.242364467999948, 131.104500000001281 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Lapangan Adiluwih", "FCODE": null, "ELEVAS": 0.0, "REMARK": "Arena Atletik dan Olah Raga", "SRS_ID": null, "LCODE": "GG0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.031159587000047, -5.219620677999956, 120.302100000000792 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Lapangan Totokarto", "FCODE": null, "ELEVAS": 0.0, "REMARK": "Arena Atletik dan Olah Raga", "SRS_ID": null, "LCODE": "GG0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.995208052000066, -5.252107618999958, 130.365000000005239 ] } }
+]
+}

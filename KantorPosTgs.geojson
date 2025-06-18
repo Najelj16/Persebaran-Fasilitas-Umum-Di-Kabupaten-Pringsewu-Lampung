@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "KantorPosTgs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Ambarawa", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.960074994000081, -5.409425470999963, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Pardasuka", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.930469251000034, -5.472748230999969, 130.62390000000596 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Patoman", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.898835769000073, -5.368600546999971, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Sukoharjo", "FCODE": null, "JNKPOS": 1, "REMARK": "Kantor Pos Besar", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.982265641000083, -5.302994198999954, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Pringsewu", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 104.970458314000041, -5.354730846999928, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Gadingrejo", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.067985136000061, -5.375200045999975, 129.662599999996019 ] } }
+]
+}
